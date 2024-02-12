@@ -14,6 +14,15 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                Garamond: ['Cormorant Garamond', 'serif'],
+            },
+            colors:{
+                "primary-blue":"#323691",
+                "primary-red": "#EC242E",
+                "dark-blue": "#001938",
+                "darker-blue": "#000E1F",
+                "whatsapp-green": '#05f66f',
+                "whatsapp-dark-green": '#18864b',
             },
         },
     },
