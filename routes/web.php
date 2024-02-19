@@ -3,6 +3,8 @@
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\UtilitiesController;
 use App\Http\Controllers\CompanyController;
+use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -28,6 +30,8 @@ Route::get('/', function () {
 });
 
 Route::get('/api/companies', [CompanyController::class, 'getAllCompanies'])->name('getAllCompanies');
+Route::get('/api/categories', [CategoryController::class, 'getAllCategories'])->name('getAllCategories');
+Route::get('/api/products', [ProductController::class, 'getAllProducts'])->name('getAllProducts');
 
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');

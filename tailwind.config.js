@@ -24,6 +24,9 @@ export default {
                 "whatsapp-green": '#05f66f',
                 "whatsapp-dark-green": '#18864b',
             },
+            aspectRatio:{
+                "vertical": "9 / 16"
+            },
         },
     },
 
