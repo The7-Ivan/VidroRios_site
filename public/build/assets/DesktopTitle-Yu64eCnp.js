@@ -1,0 +1,1 @@
+import{j as e}from"./app-MPq63KrU.js";function a({title:r,color:t="primary-blue"}){const s="text-"+t,o="border-"+t;return e.jsxs("div",{className:"w-full text-primary-blue text-center",children:[e.jsx("h2",{className:`font-Garamond font-bold text-[22px] uppercase m-0 p-0 ${s}`,children:r}),e.jsx("hr",{className:`w-full h-[0.2px] ${o}`})]})}export{a as D};

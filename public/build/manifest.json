@@ -1,0 +1,422 @@
+{
+  "_ApplicationLogo-tVv45l-k.js": {
+    "file": "assets/ApplicationLogo-tVv45l-k.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_AuthenticatedLayout-2o6jlnMv.js": {
+    "file": "assets/AuthenticatedLayout-2o6jlnMv.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_ApplicationLogo-tVv45l-k.js",
+      "_transition-xAoURBQO.js"
+    ]
+  },
+  "_BackgroundImg-YS2V-mfr.js": {
+    "assets": [
+      "assets/BackgroundImg-Gjz94oA7.jpg"
+    ],
+    "file": "assets/BackgroundImg-YS2V-mfr.js"
+  },
+  "_Categories-_eHUGqB_.js": {
+    "file": "assets/Categories-_eHUGqB_.js"
+  },
+  "_CompanyCards--dW81NRF.js": {
+    "file": "assets/CompanyCards--dW81NRF.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Vidrorios-9cFbAeW9.js"
+    ]
+  },
+  "_DesktopTitle-Yu64eCnp.js": {
+    "file": "assets/DesktopTitle-Yu64eCnp.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_GuestLayout-hyx60IE7.js": {
+    "file": "assets/GuestLayout-hyx60IE7.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_ApplicationLogo-tVv45l-k.js"
+    ]
+  },
+  "_InputLabel-z3gQzyQG.js": {
+    "file": "assets/InputLabel-z3gQzyQG.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_MobileFooter-Wc0_JcNG.js": {
+    "file": "assets/MobileFooter-Wc0_JcNG.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Vidrorios-9cFbAeW9.js"
+    ]
+  },
+  "_Pagination-n9EjpxEp.js": {
+    "assets": [
+      "assets/ImagemMoto-YKaHXNl3.png"
+    ],
+    "file": "assets/Pagination-n9EjpxEp.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Categories-_eHUGqB_.js",
+      "_Vidrorios-9cFbAeW9.js",
+      "_vrwhite_logo-0Siequss.js"
+    ]
+  },
+  "_PrimaryButton-NOSBdSHH.js": {
+    "file": "assets/PrimaryButton-NOSBdSHH.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_TextInput-MluhJaMe.js": {
+    "file": "assets/TextInput-MluhJaMe.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_Vidrorios-9cFbAeW9.js": {
+    "assets": [
+      "assets/whatapp-Fy_hREsR.webp",
+      "assets/blue_logo-h8iLHGGj.gif"
+    ],
+    "dynamicImports": [
+      "resources/js/Components/mobile/home/HomeMobile.tsx",
+      "resources/js/Components/desktop/home/HomeDesktop.tsx",
+      "resources/js/Components/mobile/loja/LojaMobile.tsx",
+      "resources/js/Components/desktop/loja/LojaDesktop.tsx",
+      "resources/js/Components/mobile/contatos/ContatosMobile.tsx",
+      "resources/js/Components/desktop/contatos/ContatosDesktop.tsx"
+    ],
+    "file": "assets/Vidrorios-9cFbAeW9.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ],
+    "isDynamicEntry": true
+  },
+  "_contato-pZn3KkKl.js": {
+    "assets": [
+      "assets/contato-XQgvQb7L.jpg"
+    ],
+    "file": "assets/contato-pZn3KkKl.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_pagination-!~{00u}~.js": {
+    "file": "assets/pagination-Go-6cO4u.css",
+    "src": "_pagination-!~{00u}~.js"
+  },
+  "_pagination-8C7Og3aJ.js": {
+    "assets": [
+      "assets/somosvidrorios2-ndNM_lRn.mp4",
+      "assets/teste1-Cs9J7Drk.png"
+    ],
+    "css": [
+      "assets/pagination-Go-6cO4u.css"
+    ],
+    "file": "assets/pagination-8C7Og3aJ.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Categories-_eHUGqB_.js"
+    ]
+  },
+  "_transition-xAoURBQO.js": {
+    "file": "assets/transition-xAoURBQO.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_vrwhite_logo-0Siequss.js": {
+    "assets": [
+      "assets/vrwhite_logo-OAj_PG5H.png"
+    ],
+    "file": "assets/vrwhite_logo-0Siequss.js"
+  },
+  "public/images/empresa/contato.jpg": {
+    "file": "assets/contato-XQgvQb7L.jpg",
+    "src": "public/images/empresa/contato.jpg"
+  },
+  "public/images/empresa/somosvidrorios2.mp4": {
+    "file": "assets/somosvidrorios2-ndNM_lRn.mp4",
+    "src": "public/images/empresa/somosvidrorios2.mp4"
+  },
+  "public/images/produtos/teste1.png": {
+    "file": "assets/teste1-Cs9J7Drk.png",
+    "src": "public/images/produtos/teste1.png"
+  },
+  "public/images/websiteImages/BackgroundImg.jpg": {
+    "file": "assets/BackgroundImg-Gjz94oA7.jpg",
+    "src": "public/images/websiteImages/BackgroundImg.jpg"
+  },
+  "public/images/websiteImages/ImagemMoto.png": {
+    "file": "assets/ImagemMoto-YKaHXNl3.png",
+    "src": "public/images/websiteImages/ImagemMoto.png"
+  },
+  "public/images/websiteImages/blue_logo.gif": {
+    "file": "assets/blue_logo-h8iLHGGj.gif",
+    "src": "public/images/websiteImages/blue_logo.gif"
+  },
+  "public/images/websiteImages/vrwhite_logo.png": {
+    "file": "assets/vrwhite_logo-OAj_PG5H.png",
+    "src": "public/images/websiteImages/vrwhite_logo.png"
+  },
+  "public/images/websiteImages/whatapp.webp": {
+    "file": "assets/whatapp-Fy_hREsR.webp",
+    "src": "public/images/websiteImages/whatapp.webp"
+  },
+  "resources/js/Components/desktop/contatos/ContatosDesktop.tsx": {
+    "file": "assets/ContatosDesktop-0h-rRPC4.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_BackgroundImg-YS2V-mfr.js",
+      "_vrwhite_logo-0Siequss.js",
+      "_contato-pZn3KkKl.js",
+      "_DesktopTitle-Yu64eCnp.js",
+      "_CompanyCards--dW81NRF.js",
+      "_Vidrorios-9cFbAeW9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/desktop/contatos/ContatosDesktop.tsx"
+  },
+  "resources/js/Components/desktop/home/HomeDesktop.tsx": {
+    "file": "assets/HomeDesktop-Xkgv-zRz.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_CompanyCards--dW81NRF.js",
+      "_DesktopTitle-Yu64eCnp.js",
+      "_BackgroundImg-YS2V-mfr.js",
+      "_pagination-8C7Og3aJ.js",
+      "_Vidrorios-9cFbAeW9.js",
+      "_Categories-_eHUGqB_.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/desktop/home/HomeDesktop.tsx"
+  },
+  "resources/js/Components/desktop/loja/LojaDesktop.tsx": {
+    "file": "assets/LojaDesktop-t8xh0pQG.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Pagination-n9EjpxEp.js",
+      "_BackgroundImg-YS2V-mfr.js",
+      "_Categories-_eHUGqB_.js",
+      "_Vidrorios-9cFbAeW9.js",
+      "_vrwhite_logo-0Siequss.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/desktop/loja/LojaDesktop.tsx"
+  },
+  "resources/js/Components/mobile/contatos/ContatosMobile.tsx": {
+    "file": "assets/ContatosMobile--7_p7qlI.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_contato-pZn3KkKl.js",
+      "_CompanyCards--dW81NRF.js",
+      "_MobileFooter-Wc0_JcNG.js",
+      "_Vidrorios-9cFbAeW9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/mobile/contatos/ContatosMobile.tsx"
+  },
+  "resources/js/Components/mobile/home/HomeMobile.tsx": {
+    "file": "assets/HomeMobile-hYhququr.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_MobileFooter-Wc0_JcNG.js",
+      "_BackgroundImg-YS2V-mfr.js",
+      "_pagination-8C7Og3aJ.js",
+      "_CompanyCards--dW81NRF.js",
+      "_Vidrorios-9cFbAeW9.js",
+      "_Categories-_eHUGqB_.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/mobile/home/HomeMobile.tsx"
+  },
+  "resources/js/Components/mobile/loja/LojaMobile.tsx": {
+    "file": "assets/LojaMobile-BFIpSa70.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_Pagination-n9EjpxEp.js",
+      "_BackgroundImg-YS2V-mfr.js",
+      "_Categories-_eHUGqB_.js",
+      "_MobileFooter-Wc0_JcNG.js",
+      "_Vidrorios-9cFbAeW9.js",
+      "_vrwhite_logo-0Siequss.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Components/mobile/loja/LojaMobile.tsx"
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.tsx": {
+    "file": "assets/ConfirmPassword-UZa-uKte.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ConfirmPassword.tsx"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.tsx": {
+    "file": "assets/ForgotPassword-R1ttK8EJ.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_TextInput-MluhJaMe.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.tsx"
+  },
+  "resources/js/Pages/Auth/Login.tsx": {
+    "file": "assets/Login-3TH3Ef1o.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.tsx"
+  },
+  "resources/js/Pages/Auth/Register.tsx": {
+    "file": "assets/Register-NLA3T8oE.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.tsx"
+  },
+  "resources/js/Pages/Auth/ResetPassword.tsx": {
+    "file": "assets/ResetPassword-SEA3W7ai.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.tsx"
+  },
+  "resources/js/Pages/Auth/VerifyEmail.tsx": {
+    "file": "assets/VerifyEmail-AFeiJ0Jr.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_GuestLayout-hyx60IE7.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_ApplicationLogo-tVv45l-k.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/VerifyEmail.tsx"
+  },
+  "resources/js/Pages/Dashboard.tsx": {
+    "file": "assets/Dashboard-Gc1KRKdI.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_AuthenticatedLayout-2o6jlnMv.js",
+      "_ApplicationLogo-tVv45l-k.js",
+      "_transition-xAoURBQO.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.tsx"
+  },
+  "resources/js/Pages/Profile/Edit.tsx": {
+    "file": "assets/Edit-clUfItDU.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_AuthenticatedLayout-2o6jlnMv.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
+      "_ApplicationLogo-tVv45l-k.js",
+      "_transition-xAoURBQO.js",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Edit.tsx"
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx": {
+    "file": "assets/DeleteUserForm-BZRnnJVj.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_transition-xAoURBQO.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx"
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx": {
+    "file": "assets/UpdatePasswordForm-Qm0ELJsh.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_transition-xAoURBQO.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx"
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx": {
+    "file": "assets/UpdateProfileInformationForm--kGPNKRG.js",
+    "imports": [
+      "resources/js/app.tsx",
+      "_TextInput-MluhJaMe.js",
+      "_InputLabel-z3gQzyQG.js",
+      "_PrimaryButton-NOSBdSHH.js",
+      "_transition-xAoURBQO.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx"
+  },
+  "resources/js/Pages/Welcome.tsx": {
+    "file": "assets/Welcome-OdHGCTOl.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Welcome.tsx"
+  },
+  "resources/js/app.tsx": {
+    "css": [
+      "assets/app-F1CCGaQf.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.tsx",
+      "resources/js/Pages/Auth/ForgotPassword.tsx",
+      "resources/js/Pages/Auth/Login.tsx",
+      "resources/js/Pages/Auth/Register.tsx",
+      "resources/js/Pages/Auth/ResetPassword.tsx",
+      "resources/js/Pages/Auth/VerifyEmail.tsx",
+      "resources/js/Pages/Dashboard.tsx",
+      "resources/js/Pages/Profile/Edit.tsx",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
+      "_Vidrorios-9cFbAeW9.js",
+      "resources/js/Pages/Welcome.tsx"
+    ],
+    "file": "assets/app-MPq63KrU.js",
+    "isEntry": true,
+    "src": "resources/js/app.tsx"
+  }
+}

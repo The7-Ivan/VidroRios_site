@@ -1,0 +1,1 @@
+const e=async()=>{try{const t=await fetch("/api/categories");if(!t.ok)throw new Error(`Error: ${t.status} - ${t.statusText}`);return await t.json()}catch(t){return console.error("Error fetching categories:",t),[]}};let r;const o=async()=>(r||(r=await e()),r);export{o as g};
